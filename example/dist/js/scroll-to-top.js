@@ -1,0 +1,1 @@
+$(document).ready((function(){$(".scroll-to-top__link").click((function(o){o.preventDefault(),$("html, body").animate({scrollTop:0},800)}))}));

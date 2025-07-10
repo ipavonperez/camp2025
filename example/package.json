@@ -1,0 +1,28 @@
+{
+  "name": "np_datalayer_event",
+  "version": "1.0.0",
+  "description": "NP Datalayer Event",
+  "scripts": {
+    "default": "gulp",
+    "build": "gulp build",
+    "watch": "gulp watch"
+  },
+  "author": "Cocomore",
+  "license": "MIT",
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^4.6.0",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass-glob": "^1.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser": "^2.1.0",
+    "jquery": "^3.6.1",
+    "popper.js": "^1.16.1",
+    "readable-stream": "^3.6.0"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
